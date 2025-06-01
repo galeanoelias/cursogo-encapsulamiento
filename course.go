@@ -2,8 +2,6 @@ package course
 
 import "fmt"
 
-// @RecursosCompartidos
-
 type Course struct {
 	Name    string
 	Price   float64
